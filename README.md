@@ -1,0 +1,1 @@
+Pelissä on käytetty phazeria
